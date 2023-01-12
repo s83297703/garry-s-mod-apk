@@ -12,20 +12,20 @@
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"huawei",
-      "inter_type":"huawei",
-      "native_type":"huawei",
-      "reward_type":"huawei",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2142482-1",
+      "native_yandex":"R-M-2142482-2",
+      "interstitial_yandex":"R-M-2142482-3",
+      "rewarde_yandex":"R-M-2142482-4",
         
         
         "banner_huawei":"testw6vs28auh3",
@@ -51,7 +51,7 @@
 
   
     },
-    "skins": [
+   "skins": [
     {
       "imageUrl": "https://iili.io/H5NkvRe.jpg",
       "title": "Mod Pack 1",
@@ -81,6 +81,47 @@
       "likeNumbers": "2822 LIKES",
       "commentNumbers": " 3393 COMMENTS",
       "downloadNumbers": "4474 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://iili.io/H5NkkJ9.jpg",
+      "title": "Mod Pack 4",
+      "likeNumbers": "2622 LIKES",
+      "commentNumbers": " 3233 COMMENTS",
+      "downloadNumbers": "4744 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/H5Nk4iQ.jpg",
+      "title": "Mod Pack 5",
+      "likeNumbers": "2322 LIKES",
+      "commentNumbers": " 3383 COMMENTS",
+      "downloadNumbers": "4044 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
+    },
+    {
+      "imageUrl": "https://iili.io/H5NksUP.jpg",
+      "title": "Mod Pack 6",
+      "likeNumbers": "2212 LIKES",
+      "commentNumbers": " 3833 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+     
+    },
+    {
+      "imageUrl": "https://iili.io/H5NkZ5F.jpg",
+      "title": "Mod Pack 7",
+      "likeNumbers": "2232 LIKES",
+      "commentNumbers": " 3733 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
       "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
 
