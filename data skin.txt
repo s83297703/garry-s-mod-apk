@@ -13,7 +13,7 @@
         
         
       "banner_type":"yandex",
-      "inter_type":"yandex",
+      "inter_type":"admob",
       "native_type":"yandex",
       "reward_type":"yandex",
       
@@ -36,7 +36,7 @@
       
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "interstitial_admob":"ca-app-pub-1494253779810891/5499018586",
       "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
       "applovin_banner":"R-M-DEMO-300x50",
