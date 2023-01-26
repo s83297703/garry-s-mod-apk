@@ -13,7 +13,7 @@
         
         
       "banner_type":"yandex",
-      "inter_type":"yandex",
+      "inter_type":"admob",
       "native_type":"yandex",
       "reward_type":"yandex",
       
