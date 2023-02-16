@@ -12,7 +12,7 @@
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"admob",
+      "banner_type":"yandex",
       "inter_type":"yandex",
       "native_type":"yandex",
       "reward_type":"yandex",
